@@ -2,10 +2,10 @@
 <p>Very glad that nmap has been accepted as organization of GSoC 2015! \o/ </p> 
 <p>Last modification : 04/03/2015</p>
 
-<h2>Here is a very short and brief planning about what I'm going to start before the beginning of students proposal. (MARCH 16-27)</h2>
+<p>Here is a very short and brief planning about what I'm going to start before the beginning of students proposal. (MARCH 16-27)</p>
 <p>As you can see, I'm very motivated and maybe crazy by rewriting all theses url... nevermind ;)</p>
 
-<h3>Planning</h3>
+<h2>Planning</h2>
 <ul>
   <li>Read <a href="http://nmap.org/bennieston-tutorial/">benniseston-tutorial</a> - 75 %</li>
   <li>The Official Nmap Project Guide to Network Discovery and Security Scanning
@@ -37,15 +37,15 @@
 </ul>
 
 <h3>Brief accomplishment in the past</h3>
-<p>What I have done in the past year in school project : C/C++ (Qt - Basic Mastermind). Java (Solver for <a href="https://github.com/s0h3ck/Camouflage">Camouflage</a> 
- - Android)</p>
- <p>I'm also engaged in developpez.com community where I have done some traduction</p>
+<p>What I have done in the past year in school project : C/C++ (Qt - Basic Mastermind). Java (brute-force to solve all puzzles from <a href="https://github.com/s0h3ck/Camouflage">Camouflage</a> game) and Android)</p>
+ <p>I also program in Python, HTML/CSS/PHP and JS. I begin exploring node.js.</p>
+ <p>I'm also engaged in developpez.com community where I have done traductions.</p>
 
-<h3>My thoughts on Nmap :</h3>
+<h3>My thought(s) on Nmap :</h3>
 <blockquote>Feeling Nmap like the first COD, you're on the right path, but be careful, dangerous lines still there.</blockquote>
 
 <hr>
-<h3>Additionnal informations</h3>
+<h4>Additionnal informations</h4>
 <p>General Nmap SoC Requirements : <a href="http://nmap.org/soc/GeneralRequirements.html">here</a></p>
 <p>Nmap Development Mailing List : <a href="http://seclists.org/nmap-dev/">here</a></p>
 <p>Nmap SoC mailing list : <a href="https://nmap.org/mailman/listinfo/soc">here</a> (I'm not registred.)</p>
