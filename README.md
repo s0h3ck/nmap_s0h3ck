@@ -34,6 +34,7 @@
     <ul>Rewrite the script from the video - 0 %</ul>
   </li>
   <li>Learn (simple) Lua. - 0 %</li>
+  <li>Explore . - 0 %</li>
 </ul>
 
 <h3>Brief accomplishment in the past</h3>
