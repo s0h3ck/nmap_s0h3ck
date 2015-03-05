@@ -43,7 +43,7 @@
  <p>I'm also engaged in developpez.com community where I have done traductions.</p>
 
 <h3>My thought(s) on Nmap :</h3>
-<blockquote>Feeling Nmap like the first COD, you're on the right path, but be careful, dangerous lines still there.</blockquote>
+<blockquote>Feeling Nmap like the first COD, you're on the right path, but be careful, dangerous lines still be there.</blockquote>
 
 <hr>
 <h4>Additionnal informations</h4>
