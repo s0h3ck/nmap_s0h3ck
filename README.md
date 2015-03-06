@@ -1,7 +1,7 @@
 <h1>Nmap</h1>
 <p>Very glad that nmap has been accepted as organization of GSoC 2015! \o/ </p> 
 *Started* : **02/03/2015**
-*Last modification* : **05/03/2015**
+*Last modification* : **06/03/2015**
 
 <p>Here is a very short and brief planning about what I'm going to start before the beginning of students proposal. (MARCH 16-27)</p>
 <p>As you can see, I'm very motivated and maybe crazy by rewriting all theses url... nevermind ;)</p>
@@ -32,15 +32,17 @@
     </ul>
   </li>
   <li>Check <a href="http://nmap.org/presentations/BHDC10/">2010 Defcon presentation video</a> - 100 %
-    <ul>Rewrite the script from the video - 0 %</ul>
+    <ul>
+      <li>Rewrite the script from the video - 50 % (well I have bug ^^)</li>
+    </ul>
   </li>
-  <li>Learn (simple) Lua - 0 %</li>
+  <li>Learn (simple) Lua - 1 %</li>
   <li>...</li>
 </ul>
 
 <h3>Fun shows</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=Hk-21p2m8YY">DEFCON 16: Nmap: Scanning the Internet </a> - 0 %<li>
+  <li><a href="https://www.youtube.com/watch?v=Hk-21p2m8YY">DEFCON 16: Nmap: Scanning the Internet </a> - 100 %<li>
 </ul>
 
 <h3>Brief accomplishment in the past</h3>
