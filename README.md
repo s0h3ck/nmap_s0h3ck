@@ -8,7 +8,7 @@
 
 <h2>Planning</h2>
 <ul>
-  <li>Read <a href="http://nmap.org/bennieston-tutorial/">benniseston-tutorial</a> - 75 %</li>
+  <li>Read <a href="http://nmap.org/bennieston-tutorial/">benniseston-tutorial</a> - 83 %</li>
   <li>The Official Nmap Project Guide to Network Discovery and Security Scanning
     <ul>
       <li><a href="http://nmap.org/book/intro.html">1. Getting Started with Nmap</a> - 0 %</li>
