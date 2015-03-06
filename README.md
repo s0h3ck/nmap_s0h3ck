@@ -38,11 +38,6 @@
   <li>...</li>
 </ul>
 
-<h3>Books - pdf</h3>
-<ul>
-  <li><a href="http://nmap6.sourceforge.net/files/tfe_nmap_ipv6.pdf">nmap ipv6 - UNIVERSITY OF LIEGE - </a></li>
-</ul>
-
 <h3>Brief accomplishment in the past</h3>
 <p>I have done in the past year (about school project) : C/C++ (Qt - Basic mastermind). Java (brute-force to solve all puzzles from <a href="https://github.com/s0h3ck/Camouflage">Camouflage</a> game) and Android)</p>
  <p>I also program in Python, HTML/CSS/PHP and JS. I begin exploring node.js.</p>
