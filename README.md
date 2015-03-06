@@ -11,7 +11,7 @@
   <li>Read <a href="http://nmap.org/bennieston-tutorial/">benniseston-tutorial</a> - old documentation (2009) - 95 %</li>
   <li>The Official Nmap Project Guide to Network Discovery and Security Scanning
     <ul>
-      <li><a href="http://nmap.org/book/intro.html">1. Getting Started with Nmap</a> - 0 %</li>
+      <li><a href="http://nmap.org/book/intro.html">1. Getting Started with Nmap</a> - 13 %</li>
       <li><a href="http://nmap.org/book/install.html">2. Obtaining, Compiling, Installing, and Removing Nmap</a> - 0 %</li>
       <li><a href="http://nmap.org/book/host-discovery.html">3. Host Discovery (“Ping Scanning”)</a> - 0 %</li>
       <li><a href="http://nmap.org/book/host-discovery.html">4. Port Scanning Overview</a> - 0 %</li>
