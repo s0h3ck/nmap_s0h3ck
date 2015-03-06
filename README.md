@@ -48,10 +48,10 @@
 
 <hr>
 <h4>Additionnal informations</h4>
-<p>General Nmap SoC Requirements : <a href="http://nmap.org/soc/GeneralRequirements.html">here</a>
-  <ul>
-    <li><a href="http://www.di.ens.fr/~baghdadi/TXT_blog/5_advices_to_get_your_proposal_accepted.lyx.html">5 advices for the proposal</a></li>
-</p>
+<p>General Nmap SoC Requirements : <a href="http://nmap.org/soc/GeneralRequirements.html">here</a></p>
+<ul>
+  <li><a href="http://www.di.ens.fr/~baghdadi/TXT_blog/5_advices_to_get_your_proposal_accepted.lyx.html">5 advices for the proposal</a></li>
+</ul>
 
 <p>Nmap Development Mailing List : <a href="http://seclists.org/nmap-dev/">here</a></p>
 <p>Nmap SoC mailing list : <a href="https://nmap.org/mailman/listinfo/soc">here</a> (I'm not registred.)</p>
