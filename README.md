@@ -38,6 +38,11 @@
   <li>...</li>
 </ul>
 
+<h3>Fun shows</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=Hk-21p2m8YY">DEFCON 16: Nmap: Scanning the Internet </a> - 0 %<li>
+</ul>
+
 <h3>Brief accomplishment in the past</h3>
 <p>I have done in the past year (about school project) : C/C++ (Qt - Basic mastermind). Java (brute-force to solve all puzzles from <a href="https://github.com/s0h3ck/Camouflage">Camouflage</a> game) and Android)</p>
  <p>I also program in Python, HTML/CSS/PHP and JS. I begin exploring node.js.</p>
