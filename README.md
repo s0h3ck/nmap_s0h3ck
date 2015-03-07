@@ -59,6 +59,6 @@
 <ul>
   <li><a href="http://www.di.ens.fr/~baghdadi/TXT_blog/5_advices_to_get_your_proposal_accepted.lyx.html">5 advices for the proposal</a></li>
 </ul>
-
+<p>Nmap - Dev | Mailing List Archive : <a href="http://nmap-dev.996309.n3.nabble.com/">here</a></p>
 <p>Nmap Development Mailing List : <a href="http://seclists.org/nmap-dev/">here</a></p>
 <p>Nmap SoC mailing list : <a href="https://nmap.org/mailman/listinfo/soc">here</a> (I'm not registred.)</p>
