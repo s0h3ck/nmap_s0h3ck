@@ -14,7 +14,7 @@
       <li><a href="http://nmap.org/book/intro.html">1. Getting Started with Nmap</a> - 13 %</li>
       <li><a href="http://nmap.org/book/install.html">2. Obtaining, Compiling, Installing, and Removing Nmap</a> - 0 %</li>
       <li><a href="http://nmap.org/book/host-discovery.html">3. Host Discovery (“Ping Scanning”)</a> - 0 %</li>
-      <li><a href="http://nmap.org/book/host-discovery.html">4. Port Scanning Overview</a> - 0 %</li>
+      <li><a href="http://nmap.org/book/port-scanning.html">4. Port Scanning Overview</a> - 0 %</li>
       <li><a href="http://nmap.org/book/scan-methods.html">5. Port Scanning Techniques and Algorithms</a> - Very interesting - 100 %</li>
       <li><a href="http://nmap.org/book/performance.html">6. Optimizing Nmap Performance</a> - 0 %</li>
       <li><a href="http://nmap.org/book/vscan.html">7. Service and Application Version Detection</a> - 0 %</li>
