@@ -36,7 +36,7 @@
       <li>Rewrite the script from the video - 50 % (well I have bug ^^)</li>
     </ul>
   </li>
-  <li>Learn (simple) Lua - 1 %</li>
+  <li>Learn (simple) Lua - 2 %</li>
   <li>...</li>
 </ul>
 
