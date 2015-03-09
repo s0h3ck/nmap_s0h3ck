@@ -42,7 +42,7 @@
 
 <h3>Fun shows</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=Hk-21p2m8YY">DEFCON 16: Nmap: Scanning the Internet </a> - 100 %<li>
+  <li><a href="https://www.youtube.com/watch?v=Hk-21p2m8YY">DEFCON 16: Nmap: Scanning the Internet </a> - 100 %</li>
   <li><a href="https://www.youtube.com/watch?v=wMammEJywyA">DEFCON 18: Mastering the Nmap Scripting Engine 1/3</a> - 0 %</li>
   <li><a href="https://www.youtube.com/watch?v=IH0uHWaQSdE">DEFCON 18: Mastering the Nmap Scripting Engine 2/3</a> - 0 %</li>
   <li><a href="https://www.youtube.com/watch?v=E2_uhTRN3Ug">DEFCON 18: Mastering the Nmap Scripting Engine 3/3</a> - 0 %</li>
