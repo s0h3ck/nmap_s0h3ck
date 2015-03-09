@@ -46,9 +46,9 @@
 </ul>
 
 <h3>Brief accomplishment in the past</h3>
-<p>I have done in the past year (about school project) : C/C++ (Qt - basic version of <a href="https://github.com/s0h3ck/Mastermind">Mastermind</a>). Java (brute-force to solve all puzzles from <a href="https://github.com/s0h3ck/Camouflage">Camouflage</a> game) and Android)</p>
+<p>I have done in the past year (about school project) : C/C++ (Qt - basic version of <a href="https://github.com/s0h3ck/Mastermind">Mastermind</a>). Java (brute-force to solve all puzzles from <a href="https://github.com/s0h3ck/Camouflage">Camouflage</a>'s game) and Android)</p>
  <p>I also program in Python, HTML/CSS/PHP and JS. I begin exploring node.js.</p>
- <p>I'm also engaged in developpez.com community where I have done traductions.</p>
+ <p>I'm also engaged in developpez.com community where I have done translations.</p>
 
 <h3>My thought(s) on Nmap :</h3>
 <blockquote>Feeling Nmap like the first COD, you're on the right path, but be careful, dangerous lines still be there.</blockquote>
