@@ -6,8 +6,8 @@
         <ul>
             <li><a href="http://www.lua.org/pil/1.html">1 – Getting Started</a> - Done</li>
             <li><a href="http://www.lua.org/pil/2.html">2 – Types and Values</a> - Done</li>
-            <li><a href="http://www.lua.org/pil/3.html">3 – Expressions</a></li>
-            <li><a href="http://www.lua.org/pil/4.html">4 – Statements</a></li>
+            <li><a href="http://www.lua.org/pil/3.html">3 – Expressions</a> - Done</li>
+            <li><a href="http://www.lua.org/pil/4.html">4 – Statements</a> - Done</li>
             <li><a href="http://www.lua.org/pil/5.html">5 – Functions</a></li>
             <li><a href="http://www.lua.org/pil/6.html">6 – More about Functions</a></li>
             <li><a href="http://www.lua.org/pil/7.html">7 – Iterators and the Generic for</a></li>
