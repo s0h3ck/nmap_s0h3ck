@@ -57,18 +57,4 @@ action = function(host, port)
   end
 
   return output_tab, output_str
-end 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+end
