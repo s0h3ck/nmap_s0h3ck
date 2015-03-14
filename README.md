@@ -19,7 +19,7 @@
       <li><a href="http://nmap.org/book/performance.html">6. Optimizing Nmap Performance</a> - Not available</li>
       <li><a href="http://nmap.org/book/vscan.html">7. Service and Application Version Detection</a> - 0 %</li>
       <li><a href="http://nmap.org/book/osdetect.html">8. Remote OS Detection</a> - 0 %</li>
-      <li><a href="http://nmap.org/book/nse.html">9. Nmap Scripting Engine</a> - 0 %</li>
+      <li><a href="http://nmap.org/book/nse.html">9. Nmap Scripting Engine</a> - 12 %</li>
       <li><a href="http://nmap.org/book/firewalls.html">10. Detecting and Subverting Firewalls and Intrusion Detection Systems</a> - Not available</li>
       <li><a href="http://nmap.org/book/defenses.html">11. Defenses Against Nmap</a> - Not available</li>
       <li><a href="http://nmap.org/book/zenmap.html">12. Zenmap GUI Users' Guide</a> - 0 %</li>
