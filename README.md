@@ -1,9 +1,9 @@
 <h1>Nmap</h1>
 <p>Very glad that nmap has been accepted as organization of GSoC 2015! \o/ </p> 
 *Started* : **02/03/2015**
-*Last modification* : **13/03/2015**
+*Last modification* : **16/03/2015**
 
-<p>Here is a very short and brief planning about what I'm going to start before the beginning of students proposal. (MARCH 16-27)</p>
+<p>Students proposal (MARCH 16-27)</p>
 <p>As you can see, I'm very motivated and maybe crazy by rewriting all theses url... nevermind ;)</p>
 
 <h2>Planning</h2>
@@ -31,11 +31,7 @@
       <li><a href="http://nmap.org/book/nping-man.html">18. Nping Reference Guide</a> - 0 %</li>
     </ul>
   </li>
-  <li>Check <a href="http://nmap.org/presentations/BHDC10/">2010 Defcon presentation video</a> - 100 %
-    <ul>
-      <li>Rewrite the script from the video - 50 % (well I have bug ... -_-)</li>
-    </ul>
-  </li>
+  <li>Check <a href="http://nmap.org/presentations/BHDC10/">2010 Defcon presentation video</a> - 100 %</li>
   <li>Learn (simple) Lua - 2 %</li>
   <li>...</li>
 </ul>
@@ -62,4 +58,4 @@
 </ul>
 <p>Nmap - Dev | Mailing List Archive : <a href="http://nmap-dev.996309.n3.nabble.com/">here</a></p>
 <p>Nmap Development Mailing List : <a href="http://seclists.org/nmap-dev/">here</a></p>
-<p>Nmap SoC mailing list : <a href="https://nmap.org/mailman/listinfo/soc">here</a> (I'm not registred.)</p>
+<p>Nmap SoC mailing list : <a href="https://nmap.org/mailman/listinfo/soc">here</a></p>
