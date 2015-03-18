@@ -1,7 +1,7 @@
 <h1>Nmap</h1>
 <p>Very glad that nmap has been accepted as organization of GSoC 2015! \o/ </p> 
 *Started* : **02/03/2015**
-*Last modification* : **16/03/2015**
+*Last modification* : **17/03/2015**
 
 <p>Students proposal (MARCH 16-27)</p>
 <p>As you can see, I'm very motivated and maybe crazy by rewriting all theses url... nevermind ;)</p>
@@ -12,7 +12,7 @@
   <li>The Official Nmap Project Guide to Network Discovery and Security Scanning
     <ul>
       <li><a href="http://nmap.org/book/intro.html">1. Getting Started with Nmap</a> - 13 %</li>
-      <li><a href="http://nmap.org/book/install.html">2. Obtaining, Compiling, Installing, and Removing Nmap</a> - 0 %</li>
+      <li><a href="http://nmap.org/book/install.html">2. Obtaining, Compiling, Installing, and Removing Nmap</a> - 80 % (... nice "N" and Dragon ASCII)</li>
       <li><a href="http://nmap.org/book/host-discovery.html">3. Host Discovery (“Ping Scanning”)</a> - Not available</li>
       <li><a href="http://nmap.org/book/port-scanning.html">4. Port Scanning Overview</a> - Not available</li>
       <li><a href="http://nmap.org/book/scan-methods.html">5. Port Scanning Techniques and Algorithms</a> - Very interesting - 100 %</li>
