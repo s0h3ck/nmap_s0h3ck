@@ -11,18 +11,18 @@
   <li>Read <a href="http://nmap.org/bennieston-tutorial/">benniseston-tutorial</a> - old documentation (2009) - 95 %</li>
   <li>The Official Nmap Project Guide to Network Discovery and Security Scanning
     <ul>
-      <li><a href="http://nmap.org/book/intro.html">1. Getting Started with Nmap</a> - 13 %</li>
+      <li><a href="http://nmap.org/book/intro.html">1. Getting Started with Nmap</a> - 43 %</li>
       <li><a href="http://nmap.org/book/install.html">2. Obtaining, Compiling, Installing, and Removing Nmap</a> - 80 % (... nice "N" and Dragon ASCII)</li>
       <li><a href="http://nmap.org/book/host-discovery.html">3. Host Discovery (“Ping Scanning”)</a> - Not available</li>
       <li><a href="http://nmap.org/book/port-scanning.html">4. Port Scanning Overview</a> - Not available</li>
       <li><a href="http://nmap.org/book/scan-methods.html">5. Port Scanning Techniques and Algorithms</a> - Very interesting - 100 %</li>
       <li><a href="http://nmap.org/book/performance.html">6. Optimizing Nmap Performance</a> - Not available</li>
       <li><a href="http://nmap.org/book/vscan.html">7. Service and Application Version Detection</a> - 0 %</li>
-      <li><a href="http://nmap.org/book/osdetect.html">8. Remote OS Detection</a> - 0 %</li>
+      <li><a href="http://nmap.org/book/osdetect.html">8. Remote OS Detection</a> - 3 %</li>
       <li><a href="http://nmap.org/book/nse.html">9. Nmap Scripting Engine</a> - 12 %</li>
       <li><a href="http://nmap.org/book/firewalls.html">10. Detecting and Subverting Firewalls and Intrusion Detection Systems</a> - Not available</li>
       <li><a href="http://nmap.org/book/defenses.html">11. Defenses Against Nmap</a> - Not available</li>
-      <li><a href="http://nmap.org/book/zenmap.html">12. Zenmap GUI Users' Guide</a> - 0 %</li>
+      <li><a href="http://nmap.org/book/zenmap.html">12. Zenmap GUI Users' Guide</a> - 10 %</li>
       <li><a href="http://nmap.org/book/output.html">13. Nmap Output Formats</a> - 0 %</li>
       <li><a href="http://nmap.org/book/data-files.html">14. Understanding and Customizing Nmap Data Files</a> - 0 %</li>
       <li><a href="http://nmap.org/book/man.html">15. Nmap Reference Guide</a> - 0 %</li>
@@ -32,7 +32,7 @@
     </ul>
   </li>
   <li>Check <a href="http://nmap.org/presentations/BHDC10/">2010 Defcon presentation video</a> - 100 %</li>
-  <li>Learn (simple) Lua - 2 %</li>
+  <li>Learn (simple) Lua - 7 %</li>
   <li>...</li>
 </ul>
 
