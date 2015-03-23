@@ -4,6 +4,7 @@
 *Last modification* : **20/03/2015**
 
 <p>Students proposal (MARCH 16-27)</p>
+<p>3 proposals for Nmap in progress..</p>
 <p>As you can see, I'm very motivated and maybe crazy by rewriting all theses url... nevermind ;)</p>
 
 <h2>Planning</h2>
