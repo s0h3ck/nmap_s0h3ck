@@ -1,9 +1,9 @@
 <h1>Nmap</h1>
 <p>Very glad that nmap has been accepted as organization of GSoC 2015! \o/ </p> 
 *Started* : **02/03/2015**
-*Last modification* : **22/03/2015**
+*Last modification* : **23/03/2015**
 
-<p>Students proposal (MARCH 16-27)</p>
+<p>Community bonding soon (MARCH 27- April [27]--> Accepted students :))</p>
 <p>3 proposals for Nmap in progress..</p>
 <p>As you can see, I'm very motivated and maybe crazy by rewriting all theses url... nevermind ;)</p>
 
