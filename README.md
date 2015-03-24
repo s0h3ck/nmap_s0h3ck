@@ -3,7 +3,7 @@
 *Started* : **02/03/2015**
 *Last modification* : **23/03/2015**
 
-<p>Community bonding soon (MARCH 27- April [27]--> Accepted students :))</p>
+<p>Community bonding soon (MARCH 27- APRIL [27]--> Accepted students :))</p>
 <p>3 proposals for Nmap in progress..</p>
 <p>As you can see, I'm very motivated and maybe crazy by rewriting all theses url... nevermind ;)</p>
 
