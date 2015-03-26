@@ -4,7 +4,6 @@ function fail(err)
 end
 
 function new(...)
-  print(arg[1])
   if (arg[1] == "1") then
     return fail("You have fail this city!")
   end

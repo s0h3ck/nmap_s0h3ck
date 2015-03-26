@@ -53,13 +53,15 @@ modification = "s0h3ck"
 license = "Simplified (2-clause) BSD license--See http://nmap.org/svn/docs/licenses/BSD-simplified"
 categories = {"discovery", "safe"}
 
+print(SCRIPT_NAME)
+print(SCRIPT_NAME.nameserver)
+print(SCRIPT_NAME.mask)
+print(SCRIPT_NAME.address)
 
 local argNS = stdnse.get_script_args(SCRIPT_NAME .. '.nameserver')
 local argDomain = stdnse.get_script_args(SCRIPT_NAME .. '.domain')
 local argMask = stdnse.get_script_args(SCRIPT_NAME .. '.mask') or 24
 local argAddr = stdnse.get_script_args(SCRIPT_NAME .. '.address')
-
-print("The value of argDomain is : " .. argDomain)
 
 prerule = function()
   return argDomain and nmap.address_family() == "inet"
