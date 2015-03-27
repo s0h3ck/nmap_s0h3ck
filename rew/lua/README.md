@@ -10,7 +10,7 @@
             <li><a href="http://www.lua.org/pil/4.html">4 – Statements</a> - Done</li>
             <li><a href="http://www.lua.org/pil/5.html">5 – Functions</a> - Done</li>
             <li><a href="http://www.lua.org/pil/6.html">6 – More about Functions</a> - Done</li>
-            <li><a href="http://www.lua.org/pil/7.html">7 – Iterators and the Generic for</a></li>
+            <li><a href="http://www.lua.org/pil/7.html">7 – Iterators and the Generic for</a> - Done</li>
             <li><a href="http://www.lua.org/pil/8.html">8 – Compilation, Execution, and Errors</a></li>
             <li><a href="http://www.lua.org/pil/9.html">9 – Coroutines</a></li>
             <li><a href="http://www.lua.org/pil/10.html">10 – Complete Examples</a></li>
