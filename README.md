@@ -1,7 +1,7 @@
 <h1>Nmap</h1>
 <p>Very glad that nmap has been accepted as organization of GSoC 2015! \o/ </p> 
 *Started* : **02/03/2015**
-*Last modification* : **1/04/2015**
+*Last modification* : **2/04/2015**
 
 <p>Community bonding soon (MARCH 27- APRIL [27]--> Accepted students :))</p>
 <p>3 proposals for Nmap in progress..</p>
@@ -33,7 +33,7 @@
     </ul>
   </li>
   <li>Check <a href="http://nmap.org/presentations/BHDC10/">2010 Defcon presentation video</a> - 100 %</li>
-  <li>Learn (simple) Lua - 7 %</li>
+  <li>Learn (simple) Lua - 13 %</li>
   <li>...</li>
 </ul>
 
