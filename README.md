@@ -1,10 +1,11 @@
 <h1>Nmap</h1>
-<p>Very glad that nmap has been accepted as organization of GSoC 2015! \o/ </p> 
-*Started* : **02/03/2015**
+<p>Very glad that nmap has been accepted as organization of GSoC 2015! \o/ </p>
+<pre>
+          Started : 02/03/2015
+Last modification : 27/03/2015
+    Last fun edit : 09/04/2015
+</pre>
 
-**Last modification** : **27/03/15**
-
-*Last fun edit* : **09/04/2015**
 
 <p>Community bonding soon (MARCH 27- APRIL [27]--> Accepted students :))</p>
 <p>3 proposals for Nmap in progress..</p>
