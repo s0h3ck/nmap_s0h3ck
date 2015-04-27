@@ -7,7 +7,7 @@ Last modification : 27/03/2015
 </pre>
 
 
-<p>Congratulation Nmap's students for GSoC :)</p>
+<p>Congratulation Nmaps' students for GSoC :)</p>
 <p>As you can see, I'm very motivated and maybe crazy by rewriting all theses url... nevermind ;)</p>
 
 <h2>Planning</h2>
