@@ -7,8 +7,7 @@ Last modification : 27/03/2015
 </pre>
 
 
-<p>Community bonding soon (MARCH 27- APRIL [27]--> Accepted students :))</p>
-<p>3 proposals for Nmap in progress..</p>
+<p>Congratulation Nmap's students for GSoC :)</p>
 <p>As you can see, I'm very motivated and maybe crazy by rewriting all theses url... nevermind ;)</p>
 
 <h2>Planning</h2>
@@ -23,7 +22,7 @@ Last modification : 27/03/2015
       <li><a href="http://nmap.org/book/scan-methods.html">5. Port Scanning Techniques and Algorithms</a> - Very interesting - 100 %</li>
       <li><a href="http://nmap.org/book/performance.html">6. Optimizing Nmap Performance</a> - Not available</li>
       <li><a href="http://nmap.org/book/vscan.html">7. Service and Application Version Detection</a> - 0 %</li>
-      <li><a href="http://nmap.org/book/osdetect.html">8. Remote OS Detection</a> - 3 %</li>
+      <li><a href="http://nmap.org/book/osdetect.html">8. Remote OS Detection</a> - 90 %</li>
       <li><a href="http://nmap.org/book/nse.html">9. Nmap Scripting Engine</a> - 12 %</li>
       <li><a href="http://nmap.org/book/firewalls.html">10. Detecting and Subverting Firewalls and Intrusion Detection Systems</a> - Not available</li>
       <li><a href="http://nmap.org/book/defenses.html">11. Defenses Against Nmap</a> - Not available</li>
